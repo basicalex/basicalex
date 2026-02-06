@@ -1,7 +1,7 @@
 
-# Alex Basic — Interface (CEII)
+# Alex Basic
 
-I build **terminal-first, agentic systems** and **human-centered products** that turn messy reality into usable interfaces: between people, data, and decisions.
+I build **terminal-first, agentic systems** and **human-centered solutions** that turn messy reality into usable interfaces: between people, data, and decisions.
 
 **Current obsession:** making AI-assisted development **reproducible**, **stateful**, and **team-consistent**.
 
@@ -38,7 +38,6 @@ I build **terminal-first, agentic systems** and **human-centered products** that
 I’m building a set of systems that share one philosophy: **Designed for humans.**
 A few threads you’ll see in my repos:
 
-- **Voyager** — tourism + community platform concepts (agents representing agencies, businesses, and attractions)
 - **Civic engagement AI** — collecting public concerns, summarizing, categorizing, and supporting better municipal decisions
 - **Extended Mind / HyperMind** — turning conversations into a structured, version-controlled knowledge system
 - **AgroPulse** — satellite-first crop intelligence/monitoring (crop insights, anomaly detection, decision support)
@@ -98,18 +97,3 @@ Check the pinned section below for:
 -->
 ```
 
-
-<!--
-**basicalex/basicalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
